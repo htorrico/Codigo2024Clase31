@@ -1,0 +1,6 @@
+@Codigo2024Clase31_HostAddress = http://localhost:5082
+
+GET {{Codigo2024Clase31_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
